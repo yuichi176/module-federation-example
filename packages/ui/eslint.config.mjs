@@ -1,4 +1,4 @@
-import reactConfig from "@repo/eslint-config/react.js";
-import tseslint from "typescript-eslint";
+import reactConfig from '@repo/eslint-config/react'
+import tseslint from 'typescript-eslint'
 
-export default tseslint.config(...reactConfig);
+export default tseslint.config(...reactConfig)
